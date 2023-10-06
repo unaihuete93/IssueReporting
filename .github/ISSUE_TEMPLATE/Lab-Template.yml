@@ -1,7 +1,7 @@
 name: Lab Issue
 description: File a Lab issue
 title: "[LAB]: "
-labels: 
+labels: ["bug"]
 # assignees:
 #   - octocat
 body:
