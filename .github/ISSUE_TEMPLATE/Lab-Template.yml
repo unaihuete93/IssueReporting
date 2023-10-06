@@ -1,7 +1,7 @@
 name: Lab Issue
 description: File a Lab issue
 title: " "
-#labels: ["skillable"]
+labels: [""]
 # assignees:
 #   - octocat
 body:
